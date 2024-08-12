@@ -36,14 +36,14 @@ After building the project, you can run the executable from the command line or 
 
 #### Example Usage
 
-1. **Run Without DLL Policy**:
+1. **Run With DLL Policy in Local Process**:
     ```bash
     block.exe
     ```
 
     This will print a message indicating that the process is not protected by the DLL policy.
 
-2. **Run with DLL Policy**:
+2. **Run with DLL Policy in Remote Process**:
     ```bash
     block.exe Raulisr00t
     ```
