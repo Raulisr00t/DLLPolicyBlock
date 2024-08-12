@@ -40,9 +40,7 @@ After building the project, you can run the executable from the command line or 
     ```bash
     block.exe
     ```
-
-    This will print a message indicating that the process is not protected by the DLL policy.
-
+    
 2. **Run with DLL Policy in Remote Process**:
     ```bash
     block.exe Raulisr00t
