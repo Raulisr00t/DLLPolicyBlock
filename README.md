@@ -21,7 +21,7 @@ This C++ project demonstrates how to create a new process in Windows with a miti
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/Raulisr00t/DLLPolicyBlock.git
-    cd block-dll-policy-process-creator
+    cd DLLPolicyBlock/
     ```
 
 2. **Open the Project**:
